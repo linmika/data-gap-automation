@@ -7,7 +7,7 @@ an operations tool. Concept only: no code, no system details.*
 
 Operations teams often work from two places at once:
 
-- **The store-room** knows *which* records need attention: every exception, every reason code,
+- **The warehouse** knows *which* records need attention: every exception, every reason code,
   every day's list.
 - **The operational tool** holds *the detail someone actually needs to act*: the evidence, the
   attachment, the latest note.
